@@ -1,0 +1,11 @@
+SIZE;gender;weight;color
+200;f;89;red
+190;m;83;green
+189;f;98;blue
+186;f;87;blue
+183;f;73;red
+181;m;84;green
+179;f;62;green
+172;m;78;blue
+156;m;56;brown
+NA;f;NA;blue

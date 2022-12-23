@@ -1,0 +1,12 @@
+color:cat:dog:mouse
+grey:2,1:2:3
+brown:4,1:2:3
+black:4,5:2:6,4
+brown:2,2:3:5
+grey:2,1:2,3:3
+black:2,3:2,4:3
+black:5,1:6:3
+grey:5,1:5:6
+black:6,4:3:3
+brown:3,1:7:4
+black:2,1:5:3
